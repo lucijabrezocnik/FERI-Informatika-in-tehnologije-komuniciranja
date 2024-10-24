@@ -2,15 +2,18 @@
 
 ## 📑 Naloga 
 
-Na podlagi zastavljenega sistema v sklopu Naloge 1 pripravite funkcionalno razgradnjo sistema. Pri tem uporabite predlogo.
-\
-\
-\
+Na podlagi zastavljenega sistema (Naloga 1) pripravite njegovo funkcionalno razgradnjo. Pri tem uporabite [predlogo](predloga_razgradnja_sistema.docx).
+
+**Pomembno:**
+- iz uvoda je potrebno razbrati kaj vaš sistem omogoča;
+- iz zapisanih vlog je potrebno razbrati razlikovanje med zainteresiranimi za projekt in dejanskimi uporabniki sistema;
+- funkcionalnosti sistema morajo biti jasno in nedvoumno definirane.<br/><br/>
+
 
 
 
 ## 📚 Dodatno gradivo
-- Predavanja
+- Vsebina predavanj<br/><br/>
 
 
 ## 📨 Priprava naloge in zagovor
