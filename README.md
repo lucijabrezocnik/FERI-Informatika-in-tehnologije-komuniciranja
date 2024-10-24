@@ -1,3 +1,10 @@
 # [UM FERI - ITK] Informatika in tehnologije komuniciranja
 
-Študijsko leto 2024/25
+
+<p align="center">
+  <b>ITK 1 VS <br/></b>
+</p>
+<br/><br/>
+
+Laboratorijske vaje pri predmetu *Informatika in tehnologije komuniciranja*:
+- [Naloga 2](Naloga2.md)
