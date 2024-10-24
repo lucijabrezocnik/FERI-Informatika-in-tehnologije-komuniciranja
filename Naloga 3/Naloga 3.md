@@ -2,7 +2,9 @@
 
 ## 📑 Naloga 
 
-Na podlagi zastavljenega sistema (Naloga 1) pripravite njegovo funkcionalno razgradnjo. Pri tem uporabite [predlogo](predloga_razgradnja_sistema.docx).
+Na podlagi zastavljenega sistema (Naloga 1) pripravite njegovo funkcionalno razgradnjo in definirajte deležnike. Pri tem uporabite [predlogo](predloga_razgradnja_sistema.docx).<br/><br/>
+
+**Zahteva:** Definirajte vsaj ***12*** funkcionalnosti.<br/><br/>
 
 **Pomembno:**
 - iz uvoda je potrebno razbrati kaj vaš sistem omogoča;
