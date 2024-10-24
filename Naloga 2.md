@@ -2,7 +2,7 @@
 
 ## ✨ Naloga 
 
-Na podlagi krajšega opisa sistema narišite pripadajoči diagram primerov uporabe. Pri tem uporabite orodje Visual Paradigm.
+Na podlagi krajšega opisa sistema *Konference.si* narišite pripadajoči diagram primerov uporabe. Pri tem uporabite orodje [Visual Paradigm](https://www.visual-paradigm.com/).
 \
 \
 \
