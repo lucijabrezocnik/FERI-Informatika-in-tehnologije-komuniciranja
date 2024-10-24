@@ -14,7 +14,12 @@ Na podlagi zastavljenega sistema v sklopu Naloge 1 pripravite funkcionalno razgr
 
 
 ## 📨 Priprava naloge in zagovor
-Nalogo izdelajte v izbrani skupini in jo zagovorite v terminu vaj.
+Nalogo izdelajte v izbrani skupini in jo zagovorite v terminu vaj.<br/><br/>
+
 
 ## 📅 Datum zagovora
-30.10.2024
+13.11.2024<br/><br/>
+
+
+## 🎯Točke
+20 točk
