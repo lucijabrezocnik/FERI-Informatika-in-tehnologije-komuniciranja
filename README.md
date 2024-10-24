@@ -7,4 +7,4 @@
 <br/><br/>
 
 Laboratorijske vaje pri predmetu *Informatika in tehnologije komuniciranja*:
-- [Naloga 2](Naloga 2.md)
+- [Naloga 2](<Naloga 2.md>)
