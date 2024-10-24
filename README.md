@@ -4,8 +4,10 @@
 <p align="center">
   <b>ITK 1 VS <br/></b>
 </p>
-<br/><br/>
+<br/>
+
+**Asistenta:** Lucija Brezočnik in Grega Vrbančič<br/><br/>
 
 Laboratorijske vaje pri predmetu *Informatika in tehnologije komuniciranja*:
-- [Naloga 2](<Naloga 2.md>)
-- [Naloga 3](<Naloga 3>)
+- [Naloga 2: Voden DPU](<Naloga 2.md>) [15 točk]
+- [Naloga 3: Razgradnja sistema](<Naloga 3>) [20 točk]
