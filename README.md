@@ -6,7 +6,7 @@
 </p>
 <br/>
 
-**Asistenta:** Lucija Brezočnik in Grega Vrbančič<br/><br/>
+**Asistenta:** Lucija Brezočnik ([prijava na govorilne ure](https://calendly.com/lucija-brezocnik/30min)) in Grega Vrbančič<br/><br/>
 
 Laboratorijske vaje pri predmetu *Informatika in tehnologije komuniciranja*:
 - Naloga 1: Vizija sistema [15 točk]
