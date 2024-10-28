@@ -17,5 +17,5 @@
 - *Naloga 6: Testni scenariji (bonus) [10 točk]*
 <br/><br/><br/>
 
-## Kvizi:
+## Kviza:
 1. kviz: 6. 11. 2024
