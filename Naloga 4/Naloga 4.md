@@ -30,4 +30,4 @@ Nalogo izdelajte v izbrani skupini in jo zagovorite v terminu vaj.<br/><br/>
 
 
 ## 🎯Točke
-20 točk
+25 točk
