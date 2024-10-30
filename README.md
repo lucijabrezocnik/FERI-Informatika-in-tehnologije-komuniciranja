@@ -10,9 +10,9 @@
 
 ## Laboratorijske vaje pri predmetu *Informatika in tehnologije komuniciranja*:
 - Naloga 1: Vizija sistema [15 točk]
-- [Naloga 2: Voden DPU](<Naloga 2.md>) [15 točk]
+- [Naloga 2: Voden DPU](<Naloga 2/Naloga 2.md>) [15 točk]
 - [Naloga 3: Razgradnja sistema](<Naloga 3>) [20 točk]
-- Naloga 4: Diagram primerov uporabe (lasten sistem) [25 točk]
+- [Naloga 4: Diagram primerov uporabe (lasten sistem)](<Naloga 4>) [25 točk]
 - Naloga 5: Specifikacije zahtev za programsko opremo [25 točk]
 - *Naloga 6: Testni scenariji (bonus) [10 točk]*
 <br/><br/><br/>
