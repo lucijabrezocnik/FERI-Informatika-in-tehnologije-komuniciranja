@@ -18,4 +18,4 @@
 <br/><br/><br/>
 
 ## Kviza:
-1. kviz: 6. 11. 2024 (lokacija: **A-302**, ura začetka: **12:00**)
+1. kviz: 6. 11. 2024 (lokacija: **A-302**, ura začetka: **12:00** - bodite pred učilnico že ob **11:55**)
