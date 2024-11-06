@@ -8,6 +8,14 @@
 
 **Asistenta:** Lucija Brezočnik ([prijava na govorilne ure](https://calendly.com/lucija-brezocnik/30min)) in Grega Vrbančič  ([prijava na govorilne ure](https://calendly.com/grega-vrbancic/office-hours-govorilne-ure))<br/><br/>
 
+## Končna ocena
+- **ustni izpit:** 20 %
+- **pisni izpit:** 30 %
+- **projekt:** 50 %
+  - kviza: 15 %
+  - naloge: 35 %
+<br/><br/><br/>
+
 ## Laboratorijske vaje pri predmetu *Informatika in tehnologije komuniciranja*:
 - Naloga 1: Vizija sistema [15 točk]
 - [Naloga 2: Voden DPU](<Naloga 2/Naloga 2.md>) [15 točk]
