@@ -26,7 +26,7 @@ Nalogo izdelajte v izbrani skupini in jo zagovorite v terminu vaj.<br/><br/>
 
 
 ## 📅 Datum zagovora
-13.11.2024<br/><br/>
+27.11.2024<br/><br/>
 
 
 ## 🎯Točke
