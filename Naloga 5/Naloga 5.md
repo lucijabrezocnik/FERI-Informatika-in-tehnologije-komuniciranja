@@ -2,7 +2,7 @@
 
 ## 📑 Naloga 
 
-Izdelajte specifikacije zahtev za vaš izbran informacijski sistem. Za osnovo uporabite že definirane funkcionalnosti iz nalog 3 in 4. Dokument SZPO obsega najpomembnejše točke standarda IEEE-830-1998. Za zapis SZPO uporabite predpisan obrazec.<br/><br/>
+Izdelajte specifikacije zahtev za vaš izbran informacijski sistem. Za osnovo uporabite že definirane funkcionalnosti iz nalog 3 in 4. Dokument SZPO obsega najpomembnejše točke standarda IEEE-830-1998. Za zapis SZPO uporabite predpisan [obrazec](<5_SZPO_template.docx>).<br/><br/>
 
 **Zahteva:** Opišite vsaj ***12*** funkcionalnosti.<br/><br/>
 
